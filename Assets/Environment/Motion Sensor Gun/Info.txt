@@ -1,0 +1,27 @@
+Motion Sensor Gun
+
+569 Polygons, Base and guns are seperate so they can be animated if need be.
+
+7 x 1K.TIF maps to use as you like;
+
+1K_Gun_Normal (Normal Map)
+
+1K_Gun_TXTR (Texture MAp, no alpha)
+
+1K_Gun_TXTR+Normal (Texture Map with fake normal map bake, no alpha)
+
+1K_Gun+Alpha_Illumination (Texture with Alpha for self Illumination for front sensor lights)
+
+1K_Gun+Spec_TXTR (Texture Map with Alpha for specular)
+
+1K_Illumination (Texture with no alpha for lights)
+
+1K_Specular (Texture with no alpha for specular)
+
+Any Questions feel free to drop me an email.
+
+duane_mayberry@yahoo.co.uk
+
+www.duanesmind.co.uk
+
+ENJOY!
