@@ -4,10 +4,28 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: Base
+    100002: Guns
+    100004: //RootNode
+    400000: Base
+    400002: Guns
+    400004: //RootNode
+    2300000: Base
+    2300002: Guns
+    2300004: //RootNode
+    3300000: Base
+    3300002: Guns
+    3300004: //RootNode
     4300000: Stand
     4300002: Base
     4300004: Guns
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gun_Material
+    second: {fileID: 2100000, guid: 76064102f8c69784584e66254ca1719e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
