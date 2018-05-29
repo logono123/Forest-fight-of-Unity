@@ -9,10 +9,15 @@ Game made of Unity3D
 -----------------------------------
 --Operations:
 
+
 --move: forward,
+
         backward,
+        
         left,
+        
         right
+        
 --shoot:mouse(left)&Space
 
 --speed up: leftshift
