@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: dec4ebac4a5b5664fb389e831ea80d6d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01 R Finger0
+    100002: Bip01 L Thigh
+    100004: R Hand
+    100006: R Foot
+    100008: R Lower Leg
+    100010: R Uper Leg
+    100012: LHand
+    100014: Bip01 L Finger0
+    100016: Bip01 R Finger1Nub
+    100018: Bip01 R Finger0Nub
+    100020: Bip01 R UpperArm
+    100022: Bip01 R Clavicle
+    100024: Bip01 L Finger1Nub
+    100026: Bip01 L Finger0Nub
+    100028: Bip01 L UpperArm
+    100030: Bip01 L Clavicle
+    100032: casual02_m_lowpoly
+    100034: R Lower Arm
+    100036: R Uper Arm
+    100038: Camera01.Target
+    100040: Camera01
+    100042: Bip01 R Thigh
+    100044: Bip01 L Toe0Nub
+    100046: L Foot
+    100048: Bip01 HeadNub
+    100050: Head
+    100052: Center
+    100054: Bip01 Spine1
+    100056: L Lover Arm
+    100058: L Uper Arm
+    100060: //RootNode
+    100062: Bip01 R Toe0Nub
+    100064: Bip01 Footsteps
+    100066: Root
+    100068: Bip01 Spine
+    100070: Bip01 Pelvis
+    100072: L Lower Leg
+    100074: L Uper Leg
+    400000: Bip01 R Finger0
+    400002: Bip01 L Thigh
+    400004: R Hand
+    400006: R Foot
+    400008: R Lower Leg
+    400010: R Uper Leg
+    400012: LHand
+    400014: Bip01 L Finger0
+    400016: Bip01 R Finger1Nub
+    400018: Bip01 R Finger0Nub
+    400020: Bip01 R UpperArm
+    400022: Bip01 R Clavicle
+    400024: Bip01 L Finger1Nub
+    400026: Bip01 L Finger0Nub
+    400028: Bip01 L UpperArm
+    400030: Bip01 L Clavicle
+    400032: casual02_m_lowpoly
+    400034: R Lower Arm
+    400036: R Uper Arm
+    400038: Camera01.Target
+    400040: Camera01
+    400042: Bip01 R Thigh
+    400044: Bip01 L Toe0Nub
+    400046: L Foot
+    400048: Bip01 HeadNub
+    400050: Head
+    400052: Center
+    400054: Bip01 Spine1
+    400056: L Lover Arm
+    400058: L Uper Arm
+    400060: //RootNode
+    400062: Bip01 R Toe0Nub
+    400064: Bip01 Footsteps
+    400066: Root
+    400068: Bip01 Spine
+    400070: Bip01 Pelvis
+    400072: L Lower Leg
+    400074: L Uper Leg
+    4300000: casual02_m_lowpoly
+    11100000: //RootNode
+    13700000: casual02_m_lowpoly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
