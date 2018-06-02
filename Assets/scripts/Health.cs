@@ -24,6 +24,8 @@ public class Health : NetworkBehaviour {
     {
         if (isServer == false) return;// 血量的处理只在服务器端执行
         currentHealth -= damage;
+
+        GameObject.Find("lifebar").GetComponent<Scrollbar>().size = GameObject.Find("lifebar").GetComponent<Scrollbar>().size - damage;
         if (currentHealth <= 0)
         {
             if (destroyOnDeath)
@@ -52,7 +54,9 @@ public class Health : NetworkBehaviour {
         {
             spawnPosition = spawnPoints[Random.Range(0, spawnPoints.Length)].transform.position;
         }
-        
+
+        this.GetComponent<PlayerController>().life = this.GetComponent<PlayerController>().life - 1;
+
 
 
         transform.position = spawnPosition;
