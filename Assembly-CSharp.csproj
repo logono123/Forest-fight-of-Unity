@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Playersetup.cs" />
      <Compile Include="Assets\scripts\Bullet.cs" />
+     <Compile Include="Assets\scripts\camera_rotate.cs" />
      <Compile Include="Assets\scripts\enemymove.cs" />
      <Compile Include="Assets\scripts\Enemyspawner.cs" />
      <Compile Include="Assets\scripts\follow_farscene.cs" />
