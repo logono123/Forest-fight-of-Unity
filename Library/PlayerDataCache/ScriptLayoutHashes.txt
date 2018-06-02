@@ -187,6 +187,7 @@ a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 <<<<<<< HEAD
+<<<<<<< HEAD
 a32f33d00a7a1fe2bf4c764c4b02d30d Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.BloomAndFlares
 6139741a93d988b78badd3f1e75cb9f7 Assembly-CSharp.dll:.RagdollForce
 d937fd5fe72c54ad6319d80536ab0ce6 Assembly-CSharp.dll:.Enemy
@@ -265,3 +266,6 @@ c08b196716247885d3b27f7f282b2568 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 =======
 a40f33fa2a15a8da3ab8ce63fd52d068 Assembly-CSharp.dll:.camera_rotate
 >>>>>>> 25fe4f760d2e891cbe57440aa6b17b94cd2f8a5e
+=======
+c16cd04e11dae27b125bb2f1e406657d Assembly-CSharp.dll:.Scale
+>>>>>>> e9c81bbc5f8fd9603a2cca32a83cb943f1a01136

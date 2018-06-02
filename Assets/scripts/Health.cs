@@ -24,8 +24,7 @@ public class Health : NetworkBehaviour {
     {
         if (isServer == false) return;// 血量的处理只在服务器端执行
         currentHealth -= damage;
-        if (isLocalPlayer) 
-            GameObject.Find("life2333").GetComponent<Scrollbar>().size = currentHealth;
+        
         if (currentHealth <= 0)
         {
             if (destroyOnDeath)
@@ -41,7 +40,12 @@ public class Health : NetworkBehaviour {
     }
     void OnChangeHealth(int health)
     {
+
         healthSlider.value = health / (float)maxHealth;
+        if (isLocalPlayer)
+        {
+            GameObject.Find("life2333").GetComponent<Scrollbar>().size = healthSlider.value;
+        }
     }
     [ClientRpc]
     void RpcRespawn()

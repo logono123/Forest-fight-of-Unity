@@ -313,6 +313,7 @@
     <Compile Include="Assets\scripts\LookAtCamera.cs" />
     <Compile Include="Assets\scripts\PlayerController.cs" />
     <Compile Include="Assets\scripts\PlayerMotor.cs" />
+    <Compile Include="Assets\scripts\Scale.cs" />
     <Compile Include="Assets\scripts\scene.cs" />
   </ItemGroup>
   <ItemGroup>
