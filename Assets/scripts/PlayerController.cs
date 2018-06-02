@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class PlayerController : NetworkBehaviour
 {
 
+    private int life = 0;
 
     [SerializeField]
     private float speed = 5f;
