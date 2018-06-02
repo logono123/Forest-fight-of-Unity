@@ -157,6 +157,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 db3b233e35a88802fed1717d19c3d9ec Assembly-CSharp.dll:.follow_farscene
 2124af75d6b3afb90d3c8471b98e9f78 Assembly-CSharp.dll:.PlayerMotor
+a40f33fa2a15a8da3ab8ce63fd52d068 Assembly-CSharp.dll:.camera_rotate
 7a85ac6da0f41c725300888bfe035ca5 Assembly-CSharp.dll:.Playersetup
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -178,4 +179,4 @@ a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 0ad469aca31264c6140b1e503c43ab6b Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectDestructor
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-a40f33fa2a15a8da3ab8ce63fd52d068 Assembly-CSharp.dll:.camera_rotate
+c16cd04e11dae27b125bb2f1e406657d Assembly-CSharp.dll:.Scale
