@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
+using UnityEngine.UI;
 public class PlayerController : NetworkBehaviour
 {
-
-    private int life = 0;
+    
 
     [SerializeField]
     private float speed = 5f;
@@ -18,6 +18,7 @@ public class PlayerController : NetworkBehaviour
     public Transform bulletSpawn;
     public int killcount=0;
     public int speedupcold = 0;
+    public int life = 5;
     
     void Start()
     {
@@ -75,6 +76,10 @@ public class PlayerController : NetworkBehaviour
             Speedup();
          
         }
+
+        GameObject.Find("lifetext").GetComponent<Text>().text = "生命:" + life + " 条";
+
+
 
     }
    
