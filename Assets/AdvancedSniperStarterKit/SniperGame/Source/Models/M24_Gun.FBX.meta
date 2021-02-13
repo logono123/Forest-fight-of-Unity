@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 7adf2031107cbaf4ebdac68c60b13362
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolt
+    100002: Bone09
+    100004: Bone13
+    100006: Bone17
+    100008: Bone21
+    100010: Bone25
+    100012: Box001
+    100014: C_Left_Hand
+    100016: C_Right_Hand
+    100018: Dummy01
+    100020: Dummy02
+    100022: Hand_Mesh03
+    100024: HeadCam
+    100026: IK Chain01
+    100028: IK Chain02
+    100030: Left
+    100032: Left 1
+    100034: Left 2
+    100036: Left 3
+    100038: Left 4
+    100040: Left1
+    100042: Left10
+    100044: Left11
+    100046: Left12
+    100048: Left13
+    100050: Left14
+    100052: Left15
+    100054: Left2
+    100056: Left3
+    100058: Left4
+    100060: Left5
+    100062: Left6
+    100064: Left7
+    100066: Left8
+    100068: Left9
+    100070: Left_Hand
+    100072: Left_Hand_End
+    100074: Left_L_Arm
+    100076: Left_L_Arm_End
+    100078: Left_U_Arm
+    100080: //RootNode
+    100082: Right1
+    100084: Right10
+    100086: Right11
+    100088: Right12
+    100090: Right13
+    100092: Right14
+    100094: Right15
+    100096: Right2
+    100098: Right3
+    100100: Right4
+    100102: Right5
+    100104: Right6
+    100106: Right7
+    100108: Right8
+    100110: Right9
+    100112: Right_Hand
+    100114: Right_Hand_End
+    100116: Right_L_Arm
+    100118: Right_L_Arm_End
+    100120: Right_U_Arm
+    400000: Bolt
+    400002: Bone09
+    400004: Bone13
+    400006: Bone17
+    400008: Bone21
+    400010: Bone25
+    400012: Box001
+    400014: C_Left_Hand
+    400016: C_Right_Hand
+    400018: Dummy01
+    400020: Dummy02
+    400022: Hand_Mesh03
+    400024: HeadCam
+    400026: IK Chain01
+    400028: IK Chain02
+    400030: Left
+    400032: Left 1
+    400034: Left 2
+    400036: Left 3
+    400038: Left 4
+    400040: Left1
+    400042: Left10
+    400044: Left11
+    400046: Left12
+    400048: Left13
+    400050: Left14
+    400052: Left15
+    400054: Left2
+    400056: Left3
+    400058: Left4
+    400060: Left5
+    400062: Left6
+    400064: Left7
+    400066: Left8
+    400068: Left9
+    400070: Left_Hand
+    400072: Left_Hand_End
+    400074: Left_L_Arm
+    400076: Left_L_Arm_End
+    400078: Left_U_Arm
+    400080: //RootNode
+    400082: Right1
+    400084: Right10
+    400086: Right11
+    400088: Right12
+    400090: Right13
+    400092: Right14
+    400094: Right15
+    400096: Right2
+    400098: Right3
+    400100: Right4
+    400102: Right5
+    400104: Right6
+    400106: Right7
+    400108: Right8
+    400110: Right9
+    400112: Right_Hand
+    400114: Right_Hand_End
+    400116: Right_L_Arm
+    400118: Right_L_Arm_End
+    400120: Right_U_Arm
+    2300000: Bolt
+    2300002: Box001
+    3300000: Bolt
+    3300002: Box001
+    4300000: Box001
+    4300002: Bolt
+    4300004: Hand_Mesh03
+    7400000: Bolt
+    7400002: Idle
+    7400004: Shoot
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Hand_Mesh03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bolt
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 61
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 92
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

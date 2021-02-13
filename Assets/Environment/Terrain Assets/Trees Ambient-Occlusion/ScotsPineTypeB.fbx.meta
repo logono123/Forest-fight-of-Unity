@@ -4,9 +4,24 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
     2800000: __AssetImporterPreview
+    3300000: //RootNode
     4300000: ScotsPineB
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PineTrunk
+    second: {fileID: 2100000, guid: 5edc9249abd4968d4368a36b96fb6b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine needles
+    second: {fileID: 2100000, guid: 4bd4ee421484909199fe72b81c03cb6c, type: 2}
   materials:
     importMaterials: 1
     materialName: 3
